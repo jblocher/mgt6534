@@ -2,7 +2,7 @@
 
 ## Mod 2, 2023 (Fall)
 
-This repo is a fork of the AI Summer repo, put on by the Data Science Institute in May 2023. 
+This repo draws strongly on Week 2 of AI Summer, put on by the Data Science Institute in May 2023. I've kept similar naming conventions so you can see what part of that course we duplicate. 
 
 The original authors were Vanderbilt Data Science Institute data scientists:
 * Dr. Jesse Spencer-Smith, Chief Data Scientist
@@ -21,7 +21,7 @@ Want to see their version of this material?
 
 ***ChatGPT Plus from OpenAI*** This is required for the course. Go to [OpenAI](https://openai.com/) to sign up. 
 
-***Open AI API access*** This is required for the course as well. Go to the [OpenAI Platform](https://platform.openai.com/overview) to sign up. You will need something called an *API Key* to access OpenAI via python as well as to do many in-class assignments. There is no charge to sign up, rather this is a "pay per usage" setup, but the cost is very, very low. You may spend less than $10 for the whole class, and you will need to provide a credit card. 
+***Open AI API access*** This is required for the course as well. Go to the [OpenAI Platform](https://platform.openai.com/overview) to sign up. You will need something called an *API Key* to access OpenAI via python as well as to do many in-class assignments. There is no charge to sign up, rather this is a "pay per usage" setup, but the cost is very, very low. You may spend less than $1 for the whole class, but you will need to provide a credit card. 
 
 #### Other Generative AI Options
 
@@ -39,7 +39,7 @@ Sign up for a [Google Collaboratory](https://colab.research.google.com/) account
 
 ### HuggingFace
 
-Sign up for a [Hugginface](https://huggingface.co) account. Again, the free account should be sufficient. You need to create a HuggingFace account as we will be using the HuggingFace platform for some of the exercises.
+Sign up for a [Huggingface](https://huggingface.co) account. Again, the free account should be sufficient. You need to create a HuggingFace account as we will be using the HuggingFace platform for some of the exercises.
 
 ## Class Plan
 
@@ -59,11 +59,14 @@ During the remainder of the class, we will apply what we learned in the first tw
 
 ## Course Resources
 
+### How to use Generative AI
+There are lots of resources out there, but for our context I really like Ethan Mollick's blog *One Useful Thing*. To get you started, try is post on [how to use AI to do stuff](https://www.oneusefulthing.org/p/how-to-use-ai-to-do-stuff-an-opinionated).
+
 ### Prompt Engineering paper 
-Written by several professors here at VU, this is a great (easy but also in-depth) intro to what we mean by Prompt Engineering. https://arxiv.org/abs/2302.11382
+Written by several professors here at VU, this is a great (easy but also in-depth) intro to what we mean by Prompt Engineering. [Link](https://arxiv.org/abs/2302.11382)
 
 ### Coursera Course
-This is a full course elaborating on the paper above that you can sign up for via Coursera if you want more information. https://www.coursera.org/learn/prompt-engineering
+This is a full course elaborating on the paper above that you can sign up for via Coursera if you want more information. [Link](https://www.coursera.org/learn/prompt-engineering)
 
 ### Semester-long course on transformer models, [DS 5690: Transformers in Theory and Practice](https://docs.google.com/document/d/1eKJn3eQU38jsE1ilZL0s-yrsIKcn8iZ7iSmXYxibx78/edit?usp=sharing). 
 Graduate students and advanced undergraduates can register by contacting Jesse Spencer-Smith. 
@@ -72,9 +75,9 @@ Graduate students and advanced undergraduates can register by contacting Jesse S
 
 ### Python
 
-The following are ~10 minute video chapters on the foundations of Python. Proficiency in Python is not required for AI Summer, but we recommend you familiarize yourself to be able to read and understand Python code when needed. If you prefer to read the information, the [Python course textbook](https://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf) is an additional resource. We have listed the most important lessons below, but you are welcome to complete other lessons as well.
+The following are ~10 minute video chapters on the foundations of Python. Proficiency in Python is not required, but I recommend you familiarize yourself to be able to read and understand Python code when needed. If you prefer to read the information, the [Python course textbook](https://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf) is an additional resource. I have listed the most important lessons below, but you are welcome to complete other lessons as well.
 
-Complete the following sections from FreeCodeCamp.org [Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/) course:
+I suggest you complete the following sections from FreeCodeCamp.org [Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/) course:
 
 * Introduction: Python as a Language (7:48)
 * Introduction: Elements of Python (12:46)
@@ -84,7 +87,7 @@ Complete the following sections from FreeCodeCamp.org [Scientific Computing with
 * Loops and Iterations (9:59)
 * Python Lists (10:57)
 
-Complete the following sections from FreeCodeCamp.org [Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/) course:
+Also, complete the following sections from FreeCodeCamp.org [Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/) course:
 
 * Data Analysis Example A (9:20)
 * How to use Jupyter Notebooks Intro (8:47)
@@ -95,7 +98,7 @@ Complete the following sections from FreeCodeCamp.org [Data Analysis with Python
 
 ### Textbooks
 
--  *Natural Language Processing with Transformers* by Lewis Tunstall, Leandro von Werra and Thomas Wolf. Transformer models for purposes beyond text. 
+-  *Natural Language Processing with Transformers* by Lewis Tunstall, Leandro von Werra and Thomas Wolf. Transformer models for purposes beyond text. Transformers are the underlying architecture behind Generative AI, and are based in Deep Learning. 
 -  *Python for Data Analysis* by Wes McKinney: More on how to use Python.
 -  *Think Stats* by Allen Downey: More on thinking “statistically” and how to analyze data.
 -  *Python for Finance* by Yves Hilpisch: Specific applications to Finance.
