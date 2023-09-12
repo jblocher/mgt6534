@@ -55,7 +55,7 @@ During the remainder of the class, we will apply what we learned in the first tw
 1. Basic data analysis: reading in data, plots, statistics
 2. Reproducible data pipelines: automating workflows
 3. Text analytics: reading, analyzing, and generating text
-4. GenAI pipelines with LangChain: how to access GenAI programmatically (i.e., create your own ChatBot)
+4. Use HuggingFace to do sentiment analysis on text
 
 ## Course Resources
 
