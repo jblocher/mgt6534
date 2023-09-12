@@ -27,7 +27,7 @@ Want to see their version of this material?
 
 ***Bing Chat*** Microsoft opened access to GPT through Bing Chat, which is based on an early version of GPT4 (in Creative Mode only), currently the most advanced AI chat model available to the public. This is the only free GenAI tool I recommend. You’ll need to install the Edge browser (https://www.microsoft.com › edge › download). With the browser running, click on “Chat” to open the chat window next to the browser window. Bing Chat has access to the internet. 
 
-***Claude 2 from Antrhopic*** This is a lesser known but very good model. The primary benefit is a 100K token context window which allows you to upload long articles, many articles, or even entire books into context. Access it at [Poe](www.poe.com). 
+***Claude 2 from Anthropic*** This is a lesser known but very good model. The primary benefit is a 100K token context window which allows you to upload long articles, many articles, or even entire books into context. Access it at [Poe](www.poe.com). 
 
 ***Bard from Google*** This is not currently recommended. 
 
@@ -39,7 +39,7 @@ Sign up for a [Google Collaboratory](https://colab.research.google.com/) account
 
 ### HuggingFace
 
-Sign up for a [Huggingface](https://huggingface.co) account. Again, the free account should be sufficient. You need to create a HuggingFace account as we will be using the HuggingFace platform for some of the exercises.
+*Optional for now* Sign up for a [Huggingface](https://huggingface.co) account. The free account should be sufficient. We may be using the HuggingFace platform for some of the exercises.
 
 ## Class Plan
 
@@ -55,7 +55,7 @@ During the remainder of the class, we will apply what we learned in the first tw
 1. Basic data analysis: reading in data, plots, statistics
 2. Reproducible data pipelines: automating workflows
 3. Text analytics: reading, analyzing, and generating text
-4. Use HuggingFace to do sentiment analysis on text
+4. Use HuggingFace to do sentiment analysis on text (if we have time...)
 
 ## Course Resources
 
