@@ -57,7 +57,7 @@ During the remainder of the class, we will apply what we learned in the first tw
 3. Text analytics: reading, analyzing, and generating text
 4. Use HuggingFace to do sentiment analysis on text (if we have time...)
 
-## Course Resources
+## Course Resources for Generative AI
 
 ### How to use Generative AI
 There are lots of resources out there, but for our context I really like Ethan Mollick's blog *One Useful Thing*. To get you started, try is post on [how to use AI to do stuff](https://www.oneusefulthing.org/p/how-to-use-ai-to-do-stuff-an-opinionated).
@@ -71,11 +71,11 @@ This is a full course elaborating on the paper above that you can sign up for vi
 ### Semester-long course on transformer models, [DS 5690: Transformers in Theory and Practice](https://docs.google.com/document/d/1eKJn3eQU38jsE1ilZL0s-yrsIKcn8iZ7iSmXYxibx78/edit?usp=sharing). 
 Graduate students and advanced undergraduates can register by contacting Jesse Spencer-Smith. 
 
-## Other Resources
+## Course Resources for Python specifically
 
-### Python
+### Videos
 
-The following are ~10 minute video chapters on the foundations of Python. Proficiency in Python is not required, but I recommend you familiarize yourself to be able to read and understand Python code when needed. If you prefer to read the information, the [Python course textbook](https://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf) is an additional resource. I have listed the most important lessons below, but you are welcome to complete other lessons as well.
+The following are ~10 minute video chapters on the foundations of Python. Proficiency in Python is not required, but I recommend you familiarize yourself to be able to read and understand Python code when needed. I have listed the most important lessons below, but you are welcome to complete other lessons as well.
 
 I suggest you complete the following sections from FreeCodeCamp.org [Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/) course:
 
@@ -97,7 +97,7 @@ Also, complete the following sections from FreeCodeCamp.org [Data Analysis with 
 * Pandas DataFrames (10:20)
 
 ### Textbooks
-
+- The free, online PDF [Python course textbook](https://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf) by Dr. Chuck is an excellent resource.
 -  *Natural Language Processing with Transformers* by Lewis Tunstall, Leandro von Werra and Thomas Wolf. Transformer models for purposes beyond text. Transformers are the underlying architecture behind Generative AI, and are based in Deep Learning. 
 -  *Python for Data Analysis* by Wes McKinney: More on how to use Python.
 -  *Think Stats* by Allen Downey: More on thinking “statistically” and how to analyze data.
